@@ -1,0 +1,28 @@
+{
+    "English Name":"Spanish",
+    
+    "Localized Name":"Español",
+    
+    "Broadcast Notice":"Este mensaje solo se mostrará una vez. Para volver a ver este mensaje más tarde, hay que eliminar el archivo iCloud Drive » Shortcuts » UpdateKit » Configuration.json.",
+    
+    "Update Available":"Actualización disponible",
+    
+    "Update Body":"Se ha publicado una nueva versión de {{shortcutName}}. Actualmente tiene la versión {{currentVersion}}.",
+    
+    "Change Log":"Novedades de la versión {{newVersion}}:",
+    
+    "Install Prompt":"¿Instalar la versión {{newVersion}}? Cancelar cerrará este Atajo inmediatamente.",
+    
+    "Install":"Instalar",
+    
+    "Notes":"Notas de la versión e historial",
+    
+    "Skip Forever":"Omite esta versión para siempre",
+    
+    "Remind":"Recuérdamelo más tarde",
+    
+    "Confirm Skip Prompt":"¿Estás seguro? Esta opción guardará un pequeño archivo de texto en iCloud Drive para que UpdateKit pueda recordar esta selección. Para restablecer esta opción basta eliminar el archivo iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"Sí, omitir esta versión"
+    
+}

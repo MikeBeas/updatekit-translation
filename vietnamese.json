@@ -1,0 +1,28 @@
+{
+    "English Name":"Vietnamese",
+    
+    "Localized Name":"Tiếng Việt",
+    
+    "Broadcast Notice":"Thông báo này sẽ chỉ xuất hiện một lần. Nếu bạn muốn xem lại thông báo này sau, hãy xóa tệp theo đường dẫn iCloud Drive » Shortcuts » UpdateKit » Configuration.json.",
+    
+    "Update Available":"Có cập nhật mới",
+    
+    "Update Body":"Một phiên bản mới của {{shortcutName}} đã được phát hành. Phiên bạn mà bạn đang có là {{currentVersion}}.",
+    
+    "Change Log":"Có gì mới trong phiên bản {{newVersion}}",
+    
+    "Install Prompt":"Cài đặt phiên bản {{newVersion}}? Nhấn Huỷ sẽ thoát khỏi Phím tắt này ngay lập tức.",
+    
+    "Install":"Cài đặt",
+    
+    "Notes":"Xem đầy đủ ghi chú và lịch sử phát hành",
+    
+    "Skip Forever":"Bỏ qua phiên bản này mãi mãi",
+    
+    "Remind":"Nhắc tôi sau",
+    
+    "Confirm Skip Prompt":"Bạn chắc chứ? Chọn tuỳ chọn này sẽ lưu một tệp văn bản nhỏ vào iCloud Drive của bạn để UpdateKit có thể nhớ các tuỳ chọn của bạn. Bạn có thể đặt lại tuỳ chọn này bằng cách xoá tệp đó tại iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"Vâng, bỏ qua phiên bản này"
+    
+}

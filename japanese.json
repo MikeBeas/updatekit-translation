@@ -1,0 +1,28 @@
+{
+    "English Name":"Japanese",
+    
+    "Localized Name":"日本語",
+    
+    "Broadcast Notice":"このメッセージは一度しか表示されません。再度表示させたい場合は iCloud Drive » Shortcuts » UpdateKit » Configuration.json にあるファイルを削除してください。",
+    
+    "Update Available":"アップデート可能",
+    
+    "Update Body":"{{shortcutName}}の新しいバージョンが利用可能です。利用中のバージョンは{{currentVersion}}です。",
+    
+    "Change Log":"{{newVersion}}の新機能",
+    
+    "Install Prompt":"{{newVersion}}をインストールしますか？キャンセルを押すと実行中のショートカットを中断します。",
+    
+    "Install":"インストール",
+    
+    "Notes":"過去のアップデート情報・バージョン履歴を確認する",
+    
+    "Skip Forever":"今後このバージョンを利用しない",
+    
+    "Remind":"あとで通知する",
+    
+    "Confirm Skip Prompt":"本当によろしいですか？はいを選択した場合、UpdateKitはその情報を記録するために iCloud Driveにテキストファイルを作成します。変更したい場合は iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json のテキストファイルを削除してください。",
+    
+    "Confirm Skip Button":"はい、今後このバージョンを利用しません"
+    
+}

@@ -1,0 +1,28 @@
+{
+    "English Name":"Dutch",
+    
+    "Localized Name":"Nederlands",
+    
+    "Broadcast Notice":"Nieuwsbericht",
+    
+    "Update Available":"Update Beschikbaar",
+    
+    "Update Body":"Er is een nieuwe versie van {{shortcutName}} beschikbaar. Momenteel heb je {{currentVersion}}.",
+    
+    "Change Log":"Nieuwigheden in versie [NIEUWE VERSIE]",
+    
+    "Install Prompt":"Wil je {{newVersion}} installeren? Wanneer je op annuleren drukt zal deze opdracht meteen sluiten.",
+    
+    "Install":"Installeren",
+    
+    "Notes":"Bekijk alle nieuwigheden & historie",
+    
+    "Skip Forever":"Negeer deze versie voor altijd",
+    
+    "Remind":"Herinner me later",
+    
+    "Confirm Skip Prompt":"Ben je zeker? Als je voor deze optie kiest zal er een klein tekstbestand bewaard worden in je iCloud Drive zodat UpdateKit je instellingen herinnert voor later. Je kan dit ongedaan maken door het tekstbestand te verwijderen uit iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"Ja, sla deze versie over"
+    
+}

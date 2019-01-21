@@ -1,0 +1,28 @@
+{
+    "English Name":"Arabic",
+    
+    "Localized Name":"العربية",
+    
+    "Broadcast Notice":"هذه الرسالة ستظهر مرة واحدة فقط  . إذا أردت أن تشاهدها مرة أخرى ،  أمسح هذا الملف في iCloud Drive » Shortcuts » UpdateKit » Configuration.json. ",
+    
+    "Update Available":"يتوفر تحديث",
+    
+    "Update Body":"يوجد تحديث جديد لإختصار {{shortcutName}} والنسخة المتوفرة لديك {{currentVersion}}.",
+    
+    "Change Log":"الجديد في هذه النسخة {{newVersion}}",
+    
+    "Install Prompt":"تثبيت النسخه {{newVersion}}؟  إضغط إلغاء للخروج من الإختصار فوراً.",
+    
+    "Install":"تثبيت",
+    
+    "Notes":"لمشاهدة تفاصيل التحديثات كاملة",
+    
+    "Skip Forever":"تجاوز هذه النسخة نهائياً",
+    
+    "Remind":"ذكرني لاحقاً",
+    
+    "Confirm Skip Prompt":"هل أنت متأكد؟  هذا الخيار سوف يحفظ ملف نصي صغير في iCloud Drive كي تستطيع أداة UpdateKit تذكر رغبتك. و إذا أردت إعادة النظر إمسح هذا الملف في  iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"نعم، تجاوز هذه النسخة"
+    
+}

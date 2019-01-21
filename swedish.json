@@ -1,0 +1,28 @@
+{
+    "English Name":"Swedish",
+    
+    "Localized Name":"Svenska",
+    
+    "Broadcast Notice":"Detta meddelandet visas endas en gång. Om du vill se den igen, radera filen iCloud Drive » Shortcuts » UpdateKit » Configuration.json. ",
+    
+    "Update Available":"En Uppdatering Finns",
+    
+    "Update Body":"En ny version av {{shortcutName}} är lanserat. Nuvarande version är {{currentVersion}}.",
+    
+    "Change Log":"Nytheter i Version {{newVersion}} ",
+    
+    "Install Prompt":"Installera version {{newVersion}}? Tryck Avbryta för att avsluta utan att uppdatera.",
+    
+    "Install":"Installera",
+    
+    "Notes":"Läs Anteckningar Och Historia",
+    
+    "Skip Forever":"Ignorera Denna Versionen För Alltid",
+    
+    "Remind":"Påminn Mig Senare",
+    
+    "Confirm Skip Prompt":"Är du säker? Om du väljer att fortsätta kommer en liten textfil att sparas på din iCloud Drive så UpdateKit kan komma ihåg ditt val. Du kan återställa valet genom att ta bort filen iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"Ja, Ignorera Denna Versionen"
+    
+}

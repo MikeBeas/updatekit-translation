@@ -1,0 +1,28 @@
+{
+    "English Name":"Catalan",
+    
+    "Localized Name":"Català",
+    
+    "Broadcast Notice":"Aquest missatge només es mostrarà una vegada. Per tornar a veure aquest missatge més tard, cal eliminar l'arxiu iCloud Drive » Shortcuts » UpdateKit » Configuration.json.",
+    
+    "Update Available":"Actualització disponible",
+    
+    "Update Body":"S'ha publicat una nova versió de {{shortcutName}}. Actualment té la versió {{currentVersion}}.",
+    
+    "Change Log":"Novetats de la versió {{newVersion}}",
+    
+    "Install Prompt":"Instal·lar la versió {{newVersion}}? Cancel·lar tancarà aquesta Drecera immediatament.",
+    
+    "Install":"Instal·lar",
+    
+    "Notes":"Notes de la versió i historial",
+    
+    "Skip Forever":"Omet aquesta versió per sempre",
+    
+    "Remind":"Recorda'm-ho més tard",
+    
+    "Confirm Skip Prompt":"Estàs segur? Aquesta opció guardarà un petit arxiu de text a iCloud Drive perquè UpdateKit pugui recordar aquesta selecció. Per restablir aquesta opció n'hi ha prou eliminar l'arxiu iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"Sí, omet aquesta versió"
+    
+}
