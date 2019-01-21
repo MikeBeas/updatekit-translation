@@ -1,0 +1,28 @@
+{
+    "English Name":"French",
+    
+    "Localized Name":"Français",
+    
+    "Broadcast Notice":"Ce message n’apparaître qu’une seule fois. Si vous voulez voir ce message à nouveau, supprimez le fichier dans iCloud Drive » Shortcuts » UpdateKit » Configuration.json.",
+    
+    "Update Available":"Une mise à jour est disponible",
+    
+    "Update Body":"Une nouvelle version d’{{shortcutName}} est disponible. Vous avez actuellement la version {{currentVersion}}.",
+    
+    "Change Log":"Quoi de neuf dans la version {{newVersion}}:",
+    
+    "Install Prompt":"Installer {{newVersion}} ? Toucher Annuler quittera ce Shortcut immédiatement.",
+    
+    "Install":"Installer",
+    
+    "Notes":"Voir les notes de versions et historiques de version complets",
+    
+    "Skip Forever":"Ignorer cette version définitivement",
+    
+    "Remind":"Me le rappeler plus tard",
+    
+    "Confirm Skip Prompt":"Êtes-vous sûr ? Choisir cette option enregistrera un petit fichier texte dans iCloud Drive afin qu’UpdateKit enregistre votre préférence. Vous pouvez supprimer cette réinitialiser cette option en supprimant le fichier dans iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json",
+    
+    "Confirm Skip Button":"Oui, ignorer cette version"
+    
+}

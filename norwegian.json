@@ -1,0 +1,28 @@
+{
+    "English Name":"Norwegian",
+    
+    "Localized Name":"Norsk",
+    
+    "Broadcast Notice":"Denne meldingen blir kun vist en gang. Hvis du vil se den igjen, slett filen iCloud Drive » Shortcuts » UpdateKit » Configuration.json. ",
+    
+    "Update Available":"En Oppdatering Er Tilgjengelig.",
+    
+    "Update Body":"En ny versjon av {{shortcutName}} er lansert. Nåværende versjon er {{currentVersion}}.",
+    
+    "Change Log":"Nytt i Versjon  {{newVersion}} ",
+    
+    "Install Prompt":"Installere versjon {{newVersion}}? Trykk Avbryt for å avslutte uten å oppdatere.",
+    
+    "Install":"Installer",
+    
+    "Notes":"Se Notater Og Historie",
+    
+    "Skip Forever":"Ignorere Denne Versjonen For Alltid",
+    
+    "Remind":"Påminn Meg Senere",
+    
+    "Confirm Skip Prompt":"Er du sikker? Velger du å fortsette vil en liten tekstfil bli lagret på din iCloud Drive så UpdateKit kan huske valget ditt. Du kan tilbakestille valget ved å slette filen iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"Ja. Ignorer Denne Versjonen"
+    
+}

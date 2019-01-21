@@ -1,0 +1,28 @@
+{
+    "English Name":"Chinese (Simplified)",
+    
+    "Localized Name":"简体中文",
+    
+    "Broadcast Notice":"这个信息只会显示一次。如果你想再看见这个信息，请在 iCloud 云碟中删除 iCloud 云碟 » Shortcuts » UpdateKit » Configuration.json",
+    
+    "Update Available":"有可用更新",
+    
+    "Update Body":"有新版本的 {{shortcutName}} 可以安装。你现在有的版本是: {{currentVersion}}。",
+    
+    "Change Log":"{{newVersion}} 的新更改:",
+    
+    "Install Prompt":"安装 {{newVersion}} 吗? 如果按取消就会立刻退出这个捷径。",
+    
+    "Install":"安装",
+    
+    "Notes":"显示完整的更改事项和历史",
+    
+    "Skip Forever":"永远跳过这个版本",
+    
+    "Remind":"晚点才提醒我",
+    
+    "Confirm Skip Prompt":"你确定吗? 选择这个选项会在你 iCloud 云碟中储存一个文字档以储存你的选择。如果你想重设这个选择，请删除 iCloud 云碟 » Shortcuts » UpdateKit » {{shortcutName}}.json”",
+    
+    "Confirm Skip Button":"确定跳过这个版本"
+    
+}

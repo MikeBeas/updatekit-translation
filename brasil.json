@@ -1,0 +1,29 @@
+{
+   
+    "English Name":"Brazilian Portuguese",
+    
+    "Localized Name":"Português (Brasil)",
+    
+    "Broadcast Notice":"Esta mensagem será mostrada apenas uma vez. Se você quiser ver esta mensagem novamente, delete o arquivo em iCloud Drive » Shortcuts » UpdateKit » Configuration.json.",
+    
+    "Update Available":"Atualização Disponível",
+    
+    "Update Body":"Uma nova versão de {{shortcutName}} foi lançada. Você atualmente está usando a versão {{currentVersion}}.",
+    
+    "Change Log":"O Que Há de Novo na Versão {{newVersion}}",
+    
+    "Install Prompt":"Deseja instalar a versão {{newVersion}}? Clicar em Cancelar irá sair deste Shortcut imediatamente.",
+    
+    "Install":"Instalar",
+    
+    "Notes":"Veja as Notas Completas de Lançamento e Histórico",
+    
+    "Skip Forever":"Pular Esta Versão Para Sempre",
+    
+    "Remind":"Lembre-me Depois",
+    
+    "Confirm Skip Prompt":"Tem certeza? Escolher esta opção um pequeno arquivo será salvo no seu iCloud Drive para que o UpdateKit possa lembrar as suas preferências. Você pode resetar esta opção deletando o arquivo em iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json.",
+    
+    "Confirm Skip Button":"Sim, Pule Esta Versão"
+    
+}
