@@ -9,7 +9,7 @@
     
     "Update Body":"有新版本的 {{shortcutName}} 可以安装。你现在有的版本是: {{currentVersion}}。",
     
-    "Change Log":"{{newVersion}} 的新更改:",
+    "Change Log":"{{newVersion}} 的新更改",
     
     "Install Prompt":"安装 {{newVersion}} 吗? 如果按取消就会立刻退出这个捷径。",
     
