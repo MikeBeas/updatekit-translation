@@ -9,7 +9,7 @@
     
     "Update Body":"Uma nova versão de {{shortcutName}} foi lançada. Tu tens a versão {{currentVersion}}",
     
-    "Change Log":"O Que Há de Novo na Versão {{newVersion}}:",
+    "Change Log":"O Que Há de Novo na Versão {{newVersion}}",
     
     "Install Prompt":"Instalar versão {{newVersion}}? Clicar em Cancelar irá sair deste Shortcut imediatamente.",
     

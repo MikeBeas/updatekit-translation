@@ -9,7 +9,7 @@
     
     "Update Body":"Se ha publicado una nueva versión de {{shortcutName}}. Actualmente tiene la versión {{currentVersion}}.",
     
-    "Change Log":"Novedades de la versión {{newVersion}}:",
+    "Change Log":"Novedades de la versión {{newVersion}}",
     
     "Install Prompt":"¿Instalar la versión {{newVersion}}? Cancelar cerrará este Atajo inmediatamente.",
     

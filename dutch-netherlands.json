@@ -9,7 +9,7 @@
     
     "Update Body":"Er is een nieuwe versie van {{shortcutName}} beschikbaar. Momenteel heb je {{currentVersion}}.",
     
-    "Change Log":"Nieuwigheden in versie [NIEUWE VERSIE]",
+    "Change Log":"Nieuwigheden in versie {{newVersion}}",
     
     "Install Prompt":"Wil je {{newVersion}} installeren? Wanneer je op annuleren drukt zal deze opdracht meteen sluiten.",
     
