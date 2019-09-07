@@ -7,11 +7,11 @@
     
     "Update Available":"Atualização Disponível",
     
-    "Update Body":"Uma nova versão de {{shortcutName}} foi lançada. Você tens a versão {{currentVersion}}",
+    "Update Body":"Uma nova versão de {{shortcutName}} foi lançada. Você tens a versão {{currentVersion}}.",
     
     "Change Log":"O Que Há de Novo na Versão {{newVersion}}",
     
-    "Install Prompt":"Instalar esta versão {{newVersion}}? Clicar em Cancelar irá sair deste Atalho imediatamente.",
+    "Install Prompt":"Instalar esta versão {{newVersion}}? Clicar em Cancelar irá sair deste Shortcut imediatamente.",
     
     "Install":"Instalar",
     
