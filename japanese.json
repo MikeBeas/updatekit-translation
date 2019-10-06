@@ -7,22 +7,22 @@
     
     "Update Available":"アップデート可能",
     
-    "Update Body":"{{shortcutName}}の新しいバージョンが利用可能です。利用中のバージョンは{{currentVersion}}です。",
+    "Update Body":"{{shortcutName}}の新しいバージョンが公開されています。現在お使いのバージョンは{{currentVersion}}です。",
     
     "Change Log":"{{newVersion}}の新機能",
     
-    "Install Prompt":"{{newVersion}}をインストールしますか？キャンセルを押すと実行中のショートカットを中断します。",
+    "Install Prompt":"{{newVersion}}をインストールしますか？キャンセルを選択すると、実行中のショートカットを直ちに終了します。",
     
     "Install":"インストール",
     
-    "Notes":"過去のアップデート情報・バージョン履歴を確認する",
+    "Notes":"すべての更新履歴を確認",
     
-    "Skip Forever":"今後このバージョンを利用しない",
+    "Skip Forever":"このバージョンを永久にスキップ",
     
-    "Remind":"あとで通知する",
+    "Remind":"あとで通知",
     
-    "Confirm Skip Prompt":"本当によろしいですか？はいを選択した場合、UpdateKitはその情報を記録するために iCloud Driveにテキストファイルを作成します。変更したい場合は iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json のテキストファイルを削除してください。",
+    "Confirm Skip Prompt":"本当によろしいですか？はいを選択した場合、UpdateKitは 設定を記憶するために iCloud Driveに小さなテキストファイルを保存します。リセットするには iCloud Drive » Shortcuts » UpdateKit » {{shortcutName}}.json にあるファイルを削除します。",
     
-    "Confirm Skip Button":"はい、今後このバージョンを利用しません"
+    "Confirm Skip Button":"はい、このバージョンをスキップします"
     
 }
