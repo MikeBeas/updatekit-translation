@@ -1,5 +1,5 @@
 # UpdateKit Translations
-This repo contains the files for the languages built into UpdateKit 4.0. Starting with version 4.0, you can create and distribute your own language files to translate UpdateKit it any language you want. You can share these files online, and other users can download and install them directly from UpdateKit.
+This repo contains the files for the languages built into UpdateKit 4.0. Starting with version 4.0, you can create and distribute your own language files to translate UpdateKit into any language you want. You can share these files online, and other users can download and install them directly from UpdateKit.
 
 ### Creating A Language File
 UpdateKit language files are JSON files that contain the translated strings for each line of text that appears in the Shortcut. There are currently eleven strings, plus two pieces of metadata (plus an optional piece of metadata).
