@@ -1,3 +1,6 @@
+# Deprecation Notice
+UpdateKit as a standalone shortcut has been deprecated and will be removed from availability with the launch of iOS 17 (estimated late 2023). It has been replaced by a far more powerful cloud version called the UpdateKit API, which is available for use in all shortcuts, including third-party standalone updaters. You can learn more about the UpdateKit API at [mikebeas.com/updatekit-api](https://www.mikebeas.com/updatekit-api).
+
 # UpdateKit Translations
 This repo contains the files for the languages built into UpdateKit 4.0. Starting with version 4.0, you can create and distribute your own language files to translate UpdateKit into any language you want. You can share these files online, and other users can download and install them directly from UpdateKit.
 
